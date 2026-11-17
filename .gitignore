@@ -1,0 +1,22 @@
+.godot/
+*.tmp
+*.log
+.DS_Store
+export.cfg
+build/
+*.keystore
+*.jks
+
+# Local export credentials and generated artifacts
+export_presets.cfg
+export_credentials.cfg
+.env
+.env.*
+*.p12
+*.mobileprovision
+__pycache__/
+*.pyc
+
+# Adobe Mixamo source/animation assets are not publicly redistributed
+assets/mixamo-life/*
+!assets/mixamo-life/README.md

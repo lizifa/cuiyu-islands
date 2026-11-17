@@ -1,0 +1,242 @@
+[
+ {
+  "id": "campfire-4390aa",
+  "source": "https://polyfork.dev/asset/campfire-4390aa",
+  "license": "CC BY 4.0",
+  "download_date": "2026-11-11",
+  "changes": "Scene scale and placement only",
+  "bytes": 72192
+ },
+ {
+  "id": "canvas-ridge-tent-f0df0d",
+  "source": "https://polyfork.dev/asset/canvas-ridge-tent-f0df0d",
+  "license": "CC BY 4.0",
+  "download_date": "2026-11-11",
+  "changes": "Scene scale and placement only",
+  "bytes": 102976
+ },
+ {
+  "id": "rowboat-c42d85",
+  "source": "https://polyfork.dev/asset/rowboat-c42d85",
+  "license": "CC BY 4.0",
+  "download_date": "2026-11-11",
+  "changes": "Scene scale and placement only",
+  "bytes": 82540
+ },
+ {
+  "id": "chilean-palm-45fef5",
+  "source": "https://polyfork.dev/asset/chilean-palm-45fef5",
+  "license": "CC BY 4.0",
+  "download_date": "2026-11-11",
+  "changes": "Scene scale and placement only",
+  "bytes": 121372
+ },
+ {
+  "id": "loot-crate-23dd3b",
+  "source": "https://polyfork.dev/asset/loot-crate-23dd3b",
+  "license": "CC BY 4.0",
+  "download_date": "2026-11-11",
+  "changes": "Scene scale and placement only",
+  "bytes": 92664
+ },
+ {
+  "id": "farmer-363820",
+  "source": "https://polyfork.dev/asset/farmer-363820",
+  "license": "CC BY 4.0",
+  "download_date": "2026-11-11",
+  "changes": "Scene placement and scale; idle animation playback",
+  "bytes": 833804
+ },
+ {
+  "id": "nature-forest-terrain-0e61f0",
+  "source": "https://polyfork.dev/asset/nature-forest-terrain-0e61f0",
+  "license": "CC BY 4.0",
+  "download_date": "2026-11-11",
+  "changes": "Scene scale and vertex colors; runtime grading of homestead terrain and recalculated normals",
+  "bytes": 3180616
+ },
+ {
+  "id": "forest-rabbit-ea2da0",
+  "source": "https://polyfork.dev/asset/forest-rabbit-ea2da0",
+  "license": "CC BY 4.0",
+  "download_date": "2026-11-11",
+  "changes": "Scene placement, scale, vertex-color settings and motion",
+  "bytes": 1218056
+ },
+ {
+  "id": "forest-deer-fe648d",
+  "source": "https://polyfork.dev/asset/forest-deer-fe648d",
+  "license": "CC BY 4.0",
+  "download_date": "2026-11-11",
+  "changes": "Scene placement, scale, vertex-color settings and motion",
+  "bytes": 1424448
+ },
+ {
+  "id": "reef-shark-base",
+  "source": "https://polyfork.dev/asset/reef-shark-base",
+  "license": "CC BY 4.0",
+  "download_date": "2026-11-11",
+  "changes": "Scene placement, scale, vertex-color settings and motion",
+  "bytes": 890424
+ },
+ {
+  "id": "reef-fish-base",
+  "source": "https://polyfork.dev/asset/reef-fish-base",
+  "license": "CC BY 4.0",
+  "download_date": "2026-11-11",
+  "changes": "Scene placement, scale, vertex-color settings and motion",
+  "bytes": 1008556
+ },
+ {
+  "id": "flame-angelfish-ce502b",
+  "source": "https://polyfork.dev/asset/flame-angelfish-ce502b",
+  "license": "CC BY 4.0",
+  "download_date": "2026-11-11",
+  "changes": "Scene placement, scale, vertex-color settings and motion",
+  "bytes": 1023700
+ },
+ {
+  "id": "broadleaf-oak-997c22",
+  "source": "https://polyfork.dev/asset/broadleaf-oak-997c22",
+  "license": "CC BY 4.0",
+  "download_date": "2026-11-11",
+  "changes": "Scene placement, scale, vertex-color settings and motion",
+  "bytes": 53860
+ },
+ {
+  "id": "young-pine-0d7695",
+  "source": "https://polyfork.dev/asset/young-pine-0d7695",
+  "license": "CC BY 4.0",
+  "download_date": "2026-11-11",
+  "changes": "Scene placement, scale, vertex-color settings and motion",
+  "bytes": 32528
+ },
+ {
+  "id": "birch-tree-181b33",
+  "source": "https://polyfork.dev/asset/birch-tree-181b33",
+  "license": "CC BY 4.0",
+  "download_date": "2026-11-11",
+  "changes": "Scene placement, scale, vertex-color settings and motion",
+  "bytes": 72308
+ },
+ {
+  "id": "red-fox-5c3bc0",
+  "source": "https://polyfork.dev/asset/red-fox-5c3bc0",
+  "license": "CC BY 4.0",
+  "download_date": "2026-11-11",
+  "changes": "Scene placement, scale, vertex-color settings and motion",
+  "bytes": 1434116
+ },
+ {
+  "id": "herring-gull-base",
+  "source": "https://polyfork.dev/asset/herring-gull-base",
+  "license": "CC BY 4.0",
+  "download_date": "2026-11-11",
+  "changes": "Scene placement, scale, vertex-color settings and motion",
+  "bytes": 3547104
+ },
+ {
+  "id": "medium-rock-e08405",
+  "source": "https://polyfork.dev/asset/medium-rock-e08405",
+  "license": "CC BY 4.0",
+  "download_date": "2026-11-11",
+  "changes": "Scene placement, scale, vertex-color settings and motion",
+  "bytes": 44328
+ },
+ {
+  "id": "farmer-304a43",
+  "source": "https://polyfork.dev/asset/farmer-304a43",
+  "license": "CC BY 4.0",
+  "download_date": "2026-11-11",
+  "changes": "Godot vertex colors, scale, placement and animation playback",
+  "bytes": 1028844
+ },
+ {
+  "id": "farm-dog-723730",
+  "source": "https://polyfork.dev/asset/farm-dog-723730",
+  "license": "CC BY 4.0",
+  "download_date": "2026-11-11",
+  "changes": "Godot vertex colors, scale, placement and animation playback",
+  "bytes": 1386132
+ },
+ {
+  "id": "cat-base",
+  "source": "https://polyfork.dev/asset/cat-base",
+  "license": "CC BY 4.0",
+  "download_date": "2026-11-11",
+  "changes": "Godot vertex colors, scale, placement and animation playback",
+  "bytes": 1362692
+ },
+ {
+  "id": "sofa-9c0e7e",
+  "source": "https://polyfork.dev/asset/sofa-9c0e7e",
+  "license": "CC BY 4.0",
+  "download_date": "2026-11-11",
+  "changes": "Godot vertex colors, scale and placement",
+  "bytes": 57624
+ },
+ {
+  "id": "bed-6e10e8",
+  "source": "https://polyfork.dev/asset/bed-6e10e8",
+  "license": "CC BY 4.0",
+  "download_date": "2026-11-11",
+  "changes": "Godot vertex colors, scale and placement",
+  "bytes": 64792
+ },
+ {
+  "id": "dining-table-7af83a",
+  "source": "https://polyfork.dev/asset/dining-table-7af83a",
+  "license": "CC BY 4.0",
+  "download_date": "2026-11-11",
+  "changes": "Godot vertex colors, scale and placement",
+  "bytes": 27612
+ },
+ {
+  "id": "bath-fad968",
+  "source": "https://polyfork.dev/asset/bath-fad968",
+  "license": "CC BY 4.0",
+  "download_date": "2026-11-11",
+  "changes": "Godot vertex colors, scale and placement",
+  "bytes": 80876
+ },
+ {
+  "id": "fridge-freezer-fb9b5a",
+  "source": "https://polyfork.dev/asset/fridge-freezer-fb9b5a",
+  "license": "CC BY 4.0",
+  "download_date": "2026-11-11",
+  "changes": "Godot vertex colors, scale and placement",
+  "bytes": 41952
+ },
+ {
+  "id": "broad-canopy-shade-tree-e7c4a2",
+  "source": "https://polyfork.dev/asset/broad-canopy-shade-tree-e7c4a2",
+  "license": "CC BY 4.0",
+  "download_date": "2026-11-11",
+  "changes": "Scene scale and placement; generated trunk collision and foliage split",
+  "bytes": 52860
+ },
+ {
+  "id": "ornamental-front-yard-tree-c6781a",
+  "source": "https://polyfork.dev/asset/ornamental-front-yard-tree-c6781a",
+  "license": "CC BY 4.0",
+  "download_date": "2026-11-11",
+  "changes": "Scene scale and placement; generated trunk collision and foliage split",
+  "bytes": 67360
+ },
+ {
+  "id": "swamp-child-base",
+  "source": "https://polyfork.dev/asset/swamp-child-base",
+  "license": "CC BY 4.0",
+  "download_date": "2026-11-14",
+  "changes": "Plays the male survivor; scaled 1.72x to keep the same on-screen height",
+  "bytes": 1418924
+ },
+ {
+  "id": "hanga-roa-fisherman-e56812",
+  "source": "https://polyfork.dev/asset/hanga-roa-fisherman-e56812",
+  "license": "CC BY 4.0",
+  "download_date": "2026-11-16",
+  "credit": "Hanga Roa Fisherman by Polyfork (https://polyfork.dev/asset/hanga-roa-fisherman-e56812), CC BY 4.0",
+  "changes": "Player model swap; scale matched to previous avatar height"
+ }
+]
