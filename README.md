@@ -4,6 +4,12 @@
 
 Godot **4.7.2** / GDScript / Compatibility 渲染，目标为 Android / iOS 横屏全屏。项目目录暂保留 `cuiyu-islands`，游戏正式名称已改为《晴耕雨航》。这是可操作的生活贸易切片，已支持虚拟摇杆真实移动与附近对象交互；制造、订单和贸易仍使用面板，尚不是完整动作生存成品。
 
+## 克隆后的本地准备
+
+公开仓库不包含 Adobe Mixamo 的 `assets/mixamo-life/Drinking.fbx`、`Waving.fbx` 和生成的 `life_actions.tres`。当前 `scripts/life/home_gesture.gd` 预加载该动作库，因此首次运行前须通过自己的 Mixamo 账号获取相应动作，并按 [动作素材说明](assets/mixamo-life/README.md) 生成资源；仅克隆仓库不能直接运行完整游戏。本机现有素材不受影响。
+
+构建产物、Godot 缓存、导出签名与本机导出预设不纳入版本控制。
+
 ## 开发约定
 
 所有预制体交互采用[固定五技能规范](docs/固定五技能规范.md)，后续修改必须遵循本项目 [AGENTS.md](AGENTS.md)。右下五个按钮固定显示，已有操作占槽，空槽置灰；候选新能力不代表已实现。
